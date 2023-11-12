@@ -41,3 +41,24 @@ Marcus
 Los int son numeros enteros por ejemplo:
 
 a = 1 # Esto es el int
+
+print(a)
+
+OutPut:
+
+1
+
+#  Str
+
+Son los que estan formados por comillas
+
+Ejemplo:
+
+A = "Hola Mundo"
+
+print(A)
+
+OutPut:
+
+Hola Mundo
+
