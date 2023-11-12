@@ -95,5 +95,37 @@ Output:
 
 7.75
 
+## Operadores
 
+Los operadores sirven para hacer problemas matematicos o sumas restas multiplicaciones y divisiones y muchas mas cosas 
+
+El simbolo de la suma es +
+El de la resta es -
+El de la mutplicacion es *
+El de la potencia es **
+El de la division es /
+
+
+Ejemplos:
+
+print(1 + 2)
+print(2 -1)
+print(2 * 3)
+print(2 ** 2)
+print(9 / 3)
+
+# OutPut:
+
+3
+1
+6
+4
+3
+
+# Los str
+
+Son como las variables pero sin los  parentesis ()
+
+my_string = "Hola mundo"
+print(my_string)
 
