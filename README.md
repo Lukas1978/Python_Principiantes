@@ -3,7 +3,7 @@ Este curso es para los nuevos en la programacion
 
 Python es un lenguage de programacion y es el más usado 
 
-# Instalcion
+# Instalción
 1-Primero tenemos que instalar un edito de texto
 
 2-Y instalaremos Python desde nuestro editor
@@ -23,3 +23,9 @@ Ejemplo:
 nombre = (Marcus)
 
 print(nombre)
+
+OutPut:
+
+Marcus
+
+# Tipos de Variables
