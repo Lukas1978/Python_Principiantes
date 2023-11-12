@@ -32,4 +32,12 @@ Marcus
 
 1-Estan los init
 
-2-Los 
+2-Los str
+
+3-Los bool
+
+4-Y los floats  
+
+Los int son numeros enteros por ejemplo:
+
+a = 1 # Esto es el int
