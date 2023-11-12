@@ -62,3 +62,30 @@ OutPut:
 
 Hola Mundo
 
+# Bool
+
+Son los que estan formados por True y False
+
+Ejemplo:
+
+Luz = [False]
+
+print(Luz)
+
+OutPut:
+
+False
+
+# Floats
+
+Son los que tienen numeros decimales como por ejemplo 1.1
+
+Ejemplo:
+
+nota = 7.75
+
+print(nota)
+
+Output:
+
+7.75
