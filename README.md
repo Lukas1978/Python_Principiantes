@@ -75,7 +75,7 @@ Ejemplo:
 
 Luz = [False]
 
-print(Luz)
+print(Luz)aber
 
 OutPut:
 
@@ -94,3 +94,6 @@ print(nota)
 Output:
 
 7.75
+
+
+
