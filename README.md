@@ -114,12 +114,16 @@ print(2 * 3)
 print(2 ** 2)
 print(9 / 3)
 
-# OutPut:
+OutPut:
 
 3
+
 1
+
 6
+
 4
+
 3
 
 # Los str
