@@ -11,3 +11,15 @@ Python es un lenguage de programacion y es el más usado
 3-Haremos un Archivo que lo puedes llamar como quieras
 
 4-Y por ultimo le damos a file le podemos llamar coo queramos pero tienes que contener por ultimo .py
+
+# Variables
+
+Las variables son como dijamos cajas con valores por ejemplo dijamos que la variable se llame
+nombre y el valor sea Marcus
+cuando lo imprimamos con el print que es la funcion para ejecutar el codijo saldra marcus
+
+Ejemplo:
+
+nombre = (Marcus)
+
+print(nombre)
