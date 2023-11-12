@@ -29,3 +29,7 @@ OutPut:
 Marcus
 
 # Tipos de Variables
+
+1-Estan los init
+
+2-Los 
