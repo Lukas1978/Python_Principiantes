@@ -134,7 +134,7 @@ Son como las variables pero sin los  parentesis ()
 my_string = "Hola mundo"
 print(my_string)
 
-Los listas
+# Las listas
 
 Las listas sirver para poder porner varias cosas en un solo archivo son varias
 variables he una
